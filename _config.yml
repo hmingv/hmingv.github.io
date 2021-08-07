@@ -1,10 +1,10 @@
 # Site settings
-title: Henry Blog
-SEOTitle: Henry Blog
+title: Henry's Blog
+SEOTitle: Henry's Blog
 header-img: img/home-bg.jpg
 email: hmingv@qq.com
 description: ""
-keyword: "Henry, hmingv, @hmingv, Henry 的博客, Henry Blog, 博客, 个人网站, 互联网, IT, PHP, Web, JavaScript, 前端, 设计"
+keyword: "Henry, hmingv, @hmingv, Henry的博客, Henry's Blog, 博客, 个人网站, 互联网, IT, PHP, Web, JavaScript, 前端, 设计"
 url: "https://fastools.net"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
