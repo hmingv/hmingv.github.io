@@ -10,10 +10,7 @@ tags:
 ---
 
 #### 在项目需要用到某个组件时，使用composer require命令快速安装依赖，报错内存超限
-![错误信息][1]
-
-
-  [1]: https://blog.twhmr.cn/usr/uploads/2020/10/2283190849.png
+![](/img/typecho/2283190849.png)
 
 解决方案：
 ### 找到对应运行的php版本的php.ini文件，修改配置参数 memory_limit 为 -1，保存后，重启apache或nginx即可
